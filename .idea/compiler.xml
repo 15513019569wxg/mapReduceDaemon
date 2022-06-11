@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mapReduceDaemon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hadoop-aliyun" target="1.8" />
+      <module name="hadoop-annotations" target="1.8" />
+      <module name="hadoop-archive-logs" target="1.8" />
+      <module name="hadoop-archives" target="1.8" />
+      <module name="hadoop-assemblies" target="1.8" />
+      <module name="hadoop-auth" target="1.8" />
+      <module name="hadoop-auth-examples" target="1.8" />
+      <module name="hadoop-aws" target="1.8" />
+      <module name="hadoop-azure" target="1.8" />
+      <module name="hadoop-azure-datalake" target="1.8" />
+      <module name="hadoop-build-tools" target="1.8" />
+      <module name="hadoop-client" target="1.8" />
+      <module name="hadoop-client-api" target="1.8" />
+      <module name="hadoop-client-check-invariants" target="1.8" />
+      <module name="hadoop-client-check-test-invariants" target="1.8" />
+      <module name="hadoop-client-integration-tests" target="1.8" />
+      <module name="hadoop-client-minicluster" target="1.8" />
+      <module name="hadoop-client-modules" target="1.8" />
+      <module name="hadoop-client-runtime" target="1.8" />
+      <module name="hadoop-cloud-storage" target="1.8" />
+      <module name="hadoop-cloud-storage-project" target="1.8" />
+      <module name="hadoop-common" target="1.8" />
+      <module name="hadoop-common-project" target="1.8" />
+      <module name="hadoop-datajoin" target="1.8" />
+      <module name="hadoop-dist" target="1.8" />
+      <module name="hadoop-distcp" target="1.8" />
+      <module name="hadoop-extras" target="1.8" />
+      <module name="hadoop-fs2img" target="1.8" />
+      <module name="hadoop-gridmix" target="1.8" />
+      <module name="hadoop-hdfs" target="1.8" />
+      <module name="hadoop-hdfs-client" target="1.8" />
+      <module name="hadoop-hdfs-httpfs" target="1.8" />
+      <module name="hadoop-hdfs-native-client" target="1.8" />
+      <module name="hadoop-hdfs-nfs" target="1.8" />
+      <module name="hadoop-hdfs-project" target="1.8" />
+      <module name="hadoop-hdfs-rbf" target="1.8" />
+      <module name="hadoop-kafka" target="1.8" />
+      <module name="hadoop-kms" target="1.8" />
+      <module name="hadoop-main" target="1.8" />
+      <module name="hadoop-main (1)" target="1.8" />
+      <module name="hadoop-main (2)" target="1.8" />
+      <module name="hadoop-mapreduce" target="1.8" />
+      <module name="hadoop-mapreduce-client" target="1.8" />
+      <module name="hadoop-mapreduce-client-app" target="1.8" />
+      <module name="hadoop-mapreduce-client-common" target="1.8" />
+      <module name="hadoop-mapreduce-client-core" target="1.8" />
+      <module name="hadoop-mapreduce-client-hs" target="1.8" />
+      <module name="hadoop-mapreduce-client-hs-plugins" target="1.8" />
+      <module name="hadoop-mapreduce-client-jobclient" target="1.8" />
+      <module name="hadoop-mapreduce-client-nativetask" target="1.8" />
+      <module name="hadoop-mapreduce-client-shuffle" target="1.8" />
+      <module name="hadoop-mapreduce-client-uploader" target="1.8" />
+      <module name="hadoop-mapreduce-examples" target="1.8" />
+      <module name="hadoop-maven-plugins" target="1.8" />
+      <module name="hadoop-minicluster" target="1.8" />
+      <module name="hadoop-minikdc" target="1.8" />
+      <module name="hadoop-nfs" target="1.8" />
+      <module name="hadoop-openstack" target="1.8" />
+      <module name="hadoop-pipes" target="1.8" />
+      <module name="hadoop-project" target="1.8" />
+      <module name="hadoop-project-dist" target="1.8" />
+      <module name="hadoop-resourceestimator" target="1.8" />
+      <module name="hadoop-rumen" target="1.8" />
+      <module name="hadoop-sls" target="1.8" />
+      <module name="hadoop-streaming" target="1.8" />
+      <module name="hadoop-tools" target="1.8" />
+      <module name="hadoop-tools-dist" target="1.8" />
+      <module name="hadoop-yarn" target="1.8" />
+      <module name="hadoop-yarn-api" target="1.8" />
+      <module name="hadoop-yarn-applications" target="1.8" />
+      <module name="hadoop-yarn-applications-distributedshell" target="1.8" />
+      <module name="hadoop-yarn-applications-unmanaged-am-launcher" target="1.8" />
+      <module name="hadoop-yarn-client" target="1.8" />
+      <module name="hadoop-yarn-common" target="1.8" />
+      <module name="hadoop-yarn-project" target="1.8" />
+      <module name="hadoop-yarn-registry" target="1.8" />
+      <module name="hadoop-yarn-server" target="1.8" />
+      <module name="hadoop-yarn-server-applicationhistoryservice" target="1.8" />
+      <module name="hadoop-yarn-server-common" target="1.8" />
+      <module name="hadoop-yarn-server-nodemanager" target="1.8" />
+      <module name="hadoop-yarn-server-resourcemanager" target="1.8" />
+      <module name="hadoop-yarn-server-router" target="1.8" />
+      <module name="hadoop-yarn-server-sharedcachemanager" target="1.8" />
+      <module name="hadoop-yarn-server-tests" target="1.8" />
+      <module name="hadoop-yarn-server-timeline-pluginstorage" target="1.8" />
+      <module name="hadoop-yarn-server-timelineservice" target="1.8" />
+      <module name="hadoop-yarn-server-timelineservice-hbase" target="1.8" />
+      <module name="hadoop-yarn-server-timelineservice-hbase-client" target="1.8" />
+      <module name="hadoop-yarn-server-timelineservice-hbase-common" target="1.8" />
+      <module name="hadoop-yarn-server-timelineservice-hbase-server" target="1.8" />
+      <module name="hadoop-yarn-server-timelineservice-hbase-server-1" target="1.8" />
+      <module name="hadoop-yarn-server-timelineservice-hbase-server-2" target="1.8" />
+      <module name="hadoop-yarn-server-timelineservice-hbase-tests" target="1.8" />
+      <module name="hadoop-yarn-server-web-proxy" target="1.8" />
+      <module name="hadoop-yarn-services" target="1.8" />
+      <module name="hadoop-yarn-services-api" target="1.8" />
+      <module name="hadoop-yarn-services-core" target="1.8" />
+      <module name="hadoop-yarn-site" target="1.8" />
+      <module name="hadoop-yarn-ui" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hadoop-aliyun" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-annotations" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-archive-logs" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-archives" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-assemblies" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-auth" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-auth-examples" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-aws" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-azure" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-azure-datalake" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-client" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-client-api" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-client-integration-tests" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-client-minicluster" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-client-runtime" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-cloud-storage" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-common" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-datajoin" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-dist" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-distcp" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-extras" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-fs2img" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-gridmix" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-hdfs" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-hdfs-client" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-hdfs-httpfs" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-hdfs-native-client" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-hdfs-nfs" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-hdfs-rbf" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-kafka" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-kms" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-mapreduce-client-app" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-mapreduce-client-common" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-mapreduce-client-core" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-mapreduce-client-hs" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-mapreduce-client-hs-plugins" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-mapreduce-client-jobclient" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-mapreduce-client-nativetask" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-mapreduce-client-shuffle" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-mapreduce-client-uploader" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-mapreduce-examples" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-maven-plugins" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-minicluster" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-minikdc" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-nfs" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-openstack" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-resourceestimator" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-rumen" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-sls" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-streaming" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-tools-dist" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-api" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-applications-distributedshell" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-applications-unmanaged-am-launcher" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-client" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-common" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-registry" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-server-applicationhistoryservice" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-server-common" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-server-nodemanager" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-server-resourcemanager" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-server-router" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-server-sharedcachemanager" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-server-tests" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-server-timeline-pluginstorage" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-server-timelineservice" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-server-timelineservice-hbase-client" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-server-timelineservice-hbase-common" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-server-timelineservice-hbase-server-1" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-server-timelineservice-hbase-server-2" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-server-web-proxy" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-services-api" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-services-core" options="-Xlint -Xmaxwarns 9999" />
+      <module name="hadoop-yarn-ui" options="-Xlint -Xmaxwarns 9999" />
+    </option>
+  </component>
+</project>
